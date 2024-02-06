@@ -1,0 +1,22 @@
+Record=TopLevelDocument|FileName=7Segment.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=ACCELEROMETER.SchDoc|SheetNumber=19
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=BARTGL.SchDoc|SheetNumber=22
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=CAN.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Current SENSOR.SchDoc|SheetNumber=20
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=DAC SPI.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=DIGITAL POT.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=I2C EXTERNAL.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Lan.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Matrixkeypad.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Motherboard.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=OPAMP.SchDoc|SheetNumber=21
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Powersupply.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Relaymodule.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Rotary Encoder.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=RS-485.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Rtc.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=SPI FLASH.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Stepper_motodriver.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=Usb to Uart.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=USB.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=7Segment.SchDoc|FileName=wwdt.SchDoc|SheetNumber=14
